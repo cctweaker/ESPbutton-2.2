@@ -22,5 +22,5 @@ Download, change the settings, build & upload
 - no external libraries
 
 # PCB example
-<img src="https://github.com/cctweaker/espbutton-2.2/blob/master/Hardware/ESPbutton v2.2 top example.jpg?raw=true" style="border: 2px solid #555">
-<img src="https://github.com/cctweaker/espbutton-2.2/blob/master/Hardware/ESPbutton v2.2 bottom example.jpg?raw=true" style="border: 2px solid #555">
+<img src="https://github.com/cctweaker/espbutton-2.2/blob/master/Hardware/ESPbutton v2.2 top example.jpg?raw=true">
+<img src="https://github.com/cctweaker/espbutton-2.2/blob/master/Hardware/ESPbutton v2.2 bottom example.jpg?raw=true">
